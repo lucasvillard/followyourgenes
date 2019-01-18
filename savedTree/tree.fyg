@@ -1,0 +1,22 @@
+.H
+=Famille 1
+=fyg0.1
+@
+.M
+=Monnier,Stanislas,Lyon,1998-09-26,null,null,Homme,0,null
+=Camba,Marine,Fréjus,1998-05-10,null,null,Homme,1,null
+=Enfant,no1,Bingladesh,2017-12-25,null,null,Autre,2,Numero 1
+=Martin,Trois,null,1962-01-01,null,1963-01-01,Femme,3,null
+=Martin,Quatre,null,1964-01-01,null,1965-01-01,Homme,4,null
+=Martin,Cinq,null,1962-01-01,null,1965-01-01,Femme,5,null
+=Martin,Six,null,1964-01-01,null,1966-01-01,Homme,6,null
+=Martin,Sept,null,1962-01-01,null,null,Femme,7,null
+=Martin,Huit,null,1964-01-01,null,null,Homme,8,null
+@
+.L
+:C
+=7,8,concubin
+=5,6,marriage
+:A
+=5,6
+@

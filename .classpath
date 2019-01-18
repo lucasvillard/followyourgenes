@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="BD"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="savedTree"/>
+	<classpathentry kind="src" path="ressources"/>
+	<classpathentry kind="lib" path="ressources/postgresql-42.1.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="ressources/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="ressources/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="ressources/sqlite-jdbc-3.21.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
